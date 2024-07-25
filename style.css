@@ -1,0 +1,67 @@
+
+
+body{
+    background-color:  #808080;
+    text-align: center;
+    margin-top: 50px;
+   
+   
+
+}
+
+input{
+    outline: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 05px;
+}
+button{
+    margin-left: 90px;
+    padding: 05px;
+    outline: none;
+    border: 2px solid black;
+    border-radius: 5px ;
+}
+
+
+button:active{
+     background-color: blue;
+     
+}
+
+.table{
+   /* height:130px ; */
+    width: 100%;
+   /* gap: 20px;  */
+   margin-right: 50px;
+   /* border: 2px solid honeydew;   */
+}
+
+.heading{
+
+  
+    /* width: 100%; */
+    /* background-color: blue; */
+    /* width:100%; */
+}
+
+#div-1{
+    width: 100%;
+}
+
+
+
+
+.table-js{
+    width: 100%;
+    /* border-collapse: collapse; */
+}
+
+.table-js td{
+    width: 150px;
+    /* border: 1px solid black; */
+    margin: 10px;
+}
+
+
+
